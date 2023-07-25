@@ -1,0 +1,10 @@
+.container-fluid{
+    height: 2000px;
+    position: relative;
+    width: 100%
+}
+.progress-bar{
+    width: 0%;
+    
+    
+}
